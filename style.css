@@ -1,0 +1,17 @@
+.main{
+	display: flex;
+	width:100%;
+	background-color:red;
+}
+.left{
+	width:50%;
+	background-color:yellow;
+	border:5px solid;
+}
+.right{
+	width:50%;
+	background-color:white;
+}
+img{
+	width:60%;
+}
